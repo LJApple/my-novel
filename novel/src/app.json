@@ -19,12 +19,12 @@
       "selectedIconPath": "static/images/icon-home-foot--active.png",
       "iconPath": "static/images/icon-home-foot.png",
       "pagePath": "pages/bookCity/main",
-      "text": "书城"
+      "text": "书架"
     }, {
       "selectedIconPath": "static/images/icon-home-foot--active.png",
       "iconPath": "static/images/icon-home-foot.png",
       "pagePath": "pages/bookshelf/main",
-      "text": "书架"
+      "text": "书城"
     }]
   }
 }
