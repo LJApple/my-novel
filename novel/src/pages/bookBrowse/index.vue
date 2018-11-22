@@ -58,12 +58,14 @@ export default {
 </script>
 
 <style lang="stylus" scoped rel="stylesheet/stylus">
+
 .bb
   padding-bottom 40rpx
+  background-color #C7EDCC
 .bb-desc
-  font-size 28rpx
-  padding 0 20rpx
+  font-size 32rpx
+  padding 20rpx
   text-align justify
-  line-height 40rpx
+  line-height 45rpx
   color gray
 </style>
